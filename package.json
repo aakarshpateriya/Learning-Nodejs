@@ -1,0 +1,18 @@
+{
+  "name": "aakarsh",
+  "version": "1.0.0",
+  "description": "learning nodejs in a single day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aakarsh",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^17.0.10",
+    "err": "^2.1.12",
+    "express": "^4.18.2",
+    "node": "^21.6.1",
+    "nodemon": "^3.0.2"
+  }
+}
